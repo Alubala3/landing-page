@@ -1,0 +1,246 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Tahoma, sans-serif;
+   
+}
+
+
+.header
+{
+    background-color: #1f2937;
+    height: auto;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 80px;
+
+}
+
+.nav
+{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.links ul
+{
+    display: flex;
+}
+
+.links ul li
+{
+    font-size: 18px;
+    list-style: none;
+}
+
+.links ul li a
+{
+    color: #e5e7eb;
+    margin: 20px;
+    text-decoration: none;
+}
+
+.logo
+{
+    font-size: 15px;
+    color: #f9f4f8;
+}
+
+.header-container
+{
+    display: flex;
+  
+}
+
+.header-container div
+{
+    padding: 10px;
+}
+
+.container-text
+{
+    flex: 1;
+}
+
+.container-text h1
+{
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+}
+
+.container-text p
+{
+    color: #fff;
+    line-height: 2;
+}
+
+.btn
+{
+    padding: 5px 20px;
+    margin-bottom: 0px;
+    border: none;
+    background-color:#3882f6;
+    color: #fff;
+    border-radius: 3px;
+}
+
+.place-holder
+{
+    
+    flex: 1;
+    margin: 20px;
+}
+
+.place-holder img
+{
+    margin-left: 10.5rem;
+}
+
+.hero
+{
+    background-color: #fff;
+}
+
+.container
+{
+    height: auto;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 80px;
+}
+
+.container-text h1
+{
+    color: #1f2937;
+    font-size: 30px;
+    text-align: center;
+}
+
+.container-image
+{
+    display: flex;
+}
+
+.container-image div
+{
+    padding: 10px;
+}
+
+.container-image1 p
+{
+    margin: 20px;
+    text-align: center;
+    color: #1f2937;
+}
+
+.container-image1 .testimo
+{
+    border: 3px solid lightseagreen;
+    border-radius: 10px;
+}
+
+.testimonial
+{
+    box-sizing: border-box;
+    padding: 80px;
+    background-color: #e5e7eb;
+}
+
+.iner-testmonial
+{
+    width: 700px;
+    margin: 0 auto;
+    font-size: 18px;
+    font-style: italic;
+}
+
+.testmonial-name
+{
+    display: flex;
+    justify-content: right;
+    margin-right: 250px;
+}
+
+.testmonial-name .name
+{
+    font-weight: bold;
+}
+
+.action
+{
+    width: 700px;
+    margin: 0 auto; 
+}
+
+.action-in
+{
+    background-color: #3882f6;
+    margin-top: 8rem;
+    display: flex;
+    border-radius: 8px;
+    justify-content: space-between;
+    margin-bottom: 8rem;
+}
+
+.action-iner
+{
+   
+    padding-top: 18px;
+    margin-left: 50px;
+}
+
+.action-iner p
+{
+    padding-bottom: 20px;
+    margin-top: 0px;
+    color: #e5e7eb;
+}
+
+.action-iner h4
+{
+    margin-bottom: 0px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.butn
+{
+    padding-top: 50px;
+    margin-right: 80px;
+}
+
+.submi
+{
+    padding: 5px 15px;
+    font-weight: bold;
+    font-size: 16px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+    color: #fff;
+    background-color: transparent;
+}
+
+.footer
+{
+    height: 40px;
+    background-color: #1f2937;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.footer span
+{
+    color: #fff;
+}
+
+
+
+
+
+
+
+
